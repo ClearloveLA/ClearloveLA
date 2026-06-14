@@ -4,6 +4,9 @@
 
 I build practical systems, learn new domains quickly, and care about delivering work that people can trust.
 
+laclearlove@gmail.com
+clearlovela@outlook.com
+微信：IU77107
 ---
 
 ## 中文
