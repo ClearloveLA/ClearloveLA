@@ -4,9 +4,6 @@
 
 I build practical systems, learn new domains quickly, and care about delivering work that people can trust.
 
-laclearlove@gmail.com
-clearlovela@outlook.com
-微信：IU77107
 ---
 
 ## 中文
@@ -96,3 +93,15 @@ I am now looking for people around the world who may need someone like me: fast,
 저는 장기적인 신뢰를 매우 중요하게 생각합니다. 돈보다 중요한 것들이 있다고 믿습니다. 정직함, 결과물의 품질, 타인의 시간을 존중하는 태도, 그리고 약속한 일을 끝까지 해내는 자세입니다.
 
 영어 기술 문서를 읽고, 영어 환경에서 개발과 문제 해결을 하는 데 큰 어려움이 없습니다. 앞으로 해외에서 성장할 가능성도 진지하게 생각하고 있으며, 특히 호주와 미국에 관심이 많습니다. 더 넓고 국제적인 기술 커뮤니티 안에서 제 가능성을 확장하고 싶습니다.
+
+---
+
+## Contact / 联系我
+
+Open to technical collaboration, project opportunities, AI Agent experiments, and conversations with people who value fast learning, reliable delivery, and long-term trust.
+
+如果你正在寻找一个能快速进入新领域、认真拆解问题并把事情交付出来的人，欢迎联系我。
+
+- Email: laclearlove@gmail.com
+- Email: clearlovela@outlook.com
+- WeChat: IU77107
