@@ -4,7 +4,8 @@
 
 I build practical systems, learn new domains quickly, and care about delivering work that people can trust.
 
-国内同学友友们点点stars,我微信:IU77107  有事加我备注github  源码下载有问题时可联系我
+国内同学友友们点点stars,我微信:IU77107  有事加我备注github  
+源码下载有问题时可联系我  这边文档我都没传上去  有的项目是有课设文档或成品论文的  ！
 ---
 
 ## 中文
