@@ -1,6 +1,6 @@
 # ClearloveLA
 
-> Fast-learning full-stack developer · AI Agent practitioner · Adaptive technical problem solver
+> Male · Born in June 2004 · Fast-learning full-stack developer · AI Agent practitioner · Adaptive technical problem solver
 
 I build practical systems, learn new domains quickly, and care about delivering work that people can trust.
 
@@ -10,7 +10,7 @@ I build practical systems, learn new domains quickly, and care about delivering 
 
 ## 中文
 
-你好，我是 ClearloveLA，一名高学习速度、强执行力的全栈开发者与 AI Agent 实践者。
+你好，我是 ClearloveLA，2004 年 6 月出生，男，一名高学习速度、强执行力的全栈开发者与 AI Agent 实践者。
 
 我从大二开始自学编程，在约半年内完成了从前端、后端、数据库到部署的全栈能力构建，并开始承接真实项目开发。2023 年起，我较早接触并使用 AI 工具，随后进一步实践 Agent 工作流，用它们提升开发、自动化和项目交付效率，也通过技术服务获得了第一阶段的商业回报。
 
@@ -32,7 +32,7 @@ I build practical systems, learn new domains quickly, and care about delivering 
 
 ## English
 
-Hi, I'm ClearloveLA, a fast-learning full-stack developer and AI Agent practitioner.
+Hi, I'm ClearloveLA, a male developer born in June 2004, and a fast-learning full-stack developer and AI Agent practitioner.
 
 I started teaching myself programming in my sophomore year of university. Within about half a year, I built a practical full-stack skill set covering frontend, backend, databases, and deployment, then began working on real-world development projects.
 
@@ -56,7 +56,7 @@ I am now looking for people around the world who may need someone like me: fast,
 
 ## 日本語
 
-こんにちは、ClearloveLA です。私は学習速度と実行力を強みにするフルスタック開発者であり、AI Agent の実践者です。
+こんにちは、ClearloveLA です。2004 年 6 月生まれの男性で、学習速度と実行力を強みにするフルスタック開発者であり、AI Agent の実践者です。
 
 大学 2 年生の頃から独学でプログラミングを始め、約半年でフロントエンド、バックエンド、データベース、デプロイまで含む実践的なフルスタック能力を身につけました。その後、実際の開発案件にも取り組むようになりました。
 
@@ -78,7 +78,7 @@ I am now looking for people around the world who may need someone like me: fast,
 
 ## 한국어
 
-안녕하세요, ClearloveLA입니다. 저는 빠른 학습 능력과 강한 실행력을 가진 풀스택 개발자이자 AI Agent 실천자입니다.
+안녕하세요, ClearloveLA입니다. 저는 2004년 6월생 남성이며, 빠른 학습 능력과 강한 실행력을 가진 풀스택 개발자이자 AI Agent 실천자입니다.
 
 대학교 2학년 때부터 독학으로 프로그래밍을 시작했고, 약 반년 만에 프론트엔드, 백엔드, 데이터베이스, 배포까지 포함한 실전형 풀스택 역량을 쌓았습니다. 이후 실제 개발 프로젝트를 수행하며 경험을 넓혀 왔습니다.
 
